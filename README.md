@@ -1,2 +1,2 @@
 # LIVEALCODE
-[Propuesta Celular Autómata](autómata celular)
+[Propuesta Celular Autómata]()
